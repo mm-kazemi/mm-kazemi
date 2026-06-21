@@ -62,14 +62,6 @@ An advanced task management Single Page Application (SPA).
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mm-kazemi&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <p align="center">
